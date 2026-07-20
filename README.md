@@ -22,12 +22,12 @@ The system consists of:
 
 ## Features
 
-* 📊 Automatic formation detection from tracking data
-* ⚽ Team shape visualization on a football pitch
-* 📈 Match history and detected formations
-* 🤖 Machine learning-based classification
-* 🚀 REST API built with FastAPI
-* 📱 Cross-platform Flutter application
+* Automatic formation detection from tracking data
+* Team shape visualization on a football pitch
+* Match history and detected formations
+* Machine learning-based classification
+* REST API built with FastAPI
+* Cross-platform Flutter application
 
 ---
 
