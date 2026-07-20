@@ -44,19 +44,25 @@ The system consists of:
 ### Home Screen
 
 <p align="center">
-<img src="images/app_home.png" width="300">
+<img src="images/Seite 1_Home_OFFLINE.jpg" width="300">
 </p>
 
 ### Formation Visualization
 
 <p align="center">
-<img src="images/pitch.png" width="300">
+<img src="images/Seite 2_Detected Formation-1.jpg" width="300">
 </p>
 
 ### Match History
 
 <p align="center">
-<img src="images/history.png" width="300">
+<img src="images/Seite 3_Formation History.jpg" width="300">
+</p>
+
+### Match Settings
+
+<p align="center">
+<img src="images/Seite 4_Settings.jpg" width="300">
 </p>
 
 ---
