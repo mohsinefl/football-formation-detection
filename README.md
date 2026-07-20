@@ -175,7 +175,7 @@ The notebooks folder contains the complete machine learning workflow:
 
 ---
 
-## 📊 Technologies
+## Technologies
 
 ### Programming Languages
 
